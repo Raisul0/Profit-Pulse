@@ -1,5 +1,5 @@
 # ProfitPulse
-
+It's a Self Created Project to Showcase Angular 17 Knowledge
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
 
 ## Development server
